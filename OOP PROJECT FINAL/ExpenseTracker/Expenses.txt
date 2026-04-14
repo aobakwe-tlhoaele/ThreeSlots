@@ -1,0 +1,4 @@
+Clothings$800.0
+Clubbing$900.0
+Girlfriend$1400.0
+Allowance$750.0
